@@ -1,0 +1,7 @@
+animazione1
+180
+100
+animazione2
+150
+100
+fine

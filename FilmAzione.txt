@@ -1,0 +1,7 @@
+azione1
+180
+100
+azione2
+150
+100
+fine
